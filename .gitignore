@@ -1,4 +1,5 @@
-com*
-build/com*
+com/*
+build/*
+bin/*
+lib/*
 /bin/
-lib*
